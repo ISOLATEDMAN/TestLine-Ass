@@ -1,16 +1,42 @@
-# testline_ass
+# TestLine Ass - QuizApp..
 
-A new Flutter project.
+A dynamic quiz application built using Flutter, implementing BLoC architecture and integrating with a custom API.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+Clone the Repository
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/ISOLATEDMAN/TestLine-Ass
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Install Dependencies
+
+```bash
+flutter pub get
+```
+
+ Run the App
+
+```bash
+flutter run
+```
+
+
+
+
+## Features
+
+- **Dynamic Question Loading**: Fetch quiz questions dynamically through a Flutter API.
+- **State Management with BLoC**: Efficient and scalable state management using BLoC architecture.
+- **Interactive UI**: Smooth and user-friendly quiz interface for an engaging experience.
+- **Modular Design**: Organized, scalable, and reusable code structure for better maintainability.
+
+## Project Status
+
+- **Completed**
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
